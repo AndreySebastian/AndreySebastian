@@ -1,7 +1,8 @@
 ## Hi there! I'm Alex Andrey Sebastian 👋
 
 # 💫 About Me:
-<br>- I'm currently a 4th year BSIT Student at Wesleyan University Philippines.<br>- I'm taking Data Engineering path — currently learning Python and SQL.<br>- I'm looking for Companies for On-the-job training (2nd Semester - 2027)<br>- I'm looking for data-related roles, but as a trainee, I'm willing to do any roles.<br>
+<br>- I'm currently a 4th year BSIT Student at Wesleyan University Philippines. <br>- Aspiring Data Engineer — currently learning SQL and Python.
+<br>- I'm looking for data-related roles, but as a trainee, I'm willing to do any roles.<br>
 
 
 ## 🌐 Socials:
