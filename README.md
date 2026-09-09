@@ -13,7 +13,8 @@
 
 
 # Repository
-[SQL_Real-World_Data_Analyst_Challenge](https://github.com/AndreySebastian/SQL_Real-World_Data_Analyst_Challenge.git)
+[SQL Real-World Data Analyst Challenge](https://github.com/AndreySebastian/SQL_Real-World_Data_Analyst_Challenge.git)
+[Exploratory Data Analysis](https://github.com/AndreySebastian/Exploratory_Data_Analysis)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
