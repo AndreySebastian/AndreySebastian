@@ -13,7 +13,7 @@
 
 
 # Repository
-[SQL Real-World Data Analyst Challenge](https://github.com/AndreySebastian/SQL_Real-World_Data_Analyst_Challenge.git)
+[SQL Real-World Data Analyst Challenge](https://github.com/AndreySebastian/SQL_Real-World_Data_Analyst_Challenge.git)<br>
 [Exploratory Data Analysis](https://github.com/AndreySebastian/Exploratory_Data_Analysis)
 
 
